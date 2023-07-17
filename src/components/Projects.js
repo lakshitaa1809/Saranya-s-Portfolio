@@ -22,7 +22,7 @@ const Projects = () => {
            It shows messaging time."
             src="https://res.cloudinary.com/dehghhzey/image/upload/v1685612995/chat_pkdbpm.jpg"
             view="https://github.com/lakshitaa1809/Connect-via-Chat"
-            live="https://connect-via-chat.netlify.app/"
+            live="https://connect-chat-react.netlify.app/"
           />
 
           <ProjectCards
@@ -48,7 +48,7 @@ const Projects = () => {
             "
             src={Netflix}
             view="https://github.com/lakshitaa1809/netflix-clone-stripe-payment"
-            live="https://netlify-clone-stripe-payment.netlify.app"
+            live="https://neflix-clone-stripe.netlify.app/"
           />
           <ProjectCards
             title="Whatsapp Clone"
@@ -59,7 +59,7 @@ const Projects = () => {
            It shows messaging time."
             src="https://res.cloudinary.com/dehghhzey/image/upload/v1685612995/chat_pkdbpm.jpg"
             view="https://github.com/lakshitaa1809/ChatAPP-MERN"
-            live="https://connect-via-chat.netlify.app/"
+            live="https://connect-chat-react.netlify.app/"
           />
           <ProjectCards
             title="Food APP -MERN"
@@ -70,7 +70,7 @@ const Projects = () => {
             Added to the cart items is checkout by clicking Checkout button."
             src={Foodimg}
             view="https://github.com/lakshitaa1809/Food--MERN-APP"
-            live="https://food-mernapp.netlify.app"
+            live="https://food-mern-app.netlify.app/"
           />
         </div>
       </div>
