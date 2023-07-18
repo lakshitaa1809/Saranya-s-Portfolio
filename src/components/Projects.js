@@ -48,7 +48,7 @@ const Projects = () => {
             "
             src={Netflix}
             view="https://github.com/lakshitaa1809/netflix-clone-stripe-payment"
-            live="https://neflix-clone-stripe.netlify.app/"
+            live="https://netflix-clone-watchonline.web.app/"
           />
           <ProjectCards
             title="Whatsapp Clone"
@@ -70,7 +70,7 @@ const Projects = () => {
             Added to the cart items is checkout by clicking Checkout button."
             src={Foodimg}
             view="https://github.com/lakshitaa1809/Food--MERN-APP"
-            live="https://food-mern-app.netlify.app/"
+            live="https://food-ordering-app-mern.netlify.app/"
           />
         </div>
       </div>
