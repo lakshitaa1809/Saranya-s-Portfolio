@@ -73,7 +73,7 @@ const SocialLinks = () => {
         rounded-br-md ml-[-100px] hover:ml-[-10px] duration-300 hover:rounded-tr-md  "
         >
           <a
-            href="/saranya_resume_FSD.pdf"
+            href="/FullStack Resume_Saranya.pdf"
             className="flex justify-between items-center w-full  "
             download="Saranya Resume"
             target="-blank"
