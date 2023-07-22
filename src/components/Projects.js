@@ -59,7 +59,7 @@ const Projects = () => {
            It shows messaging time."
             src="https://res.cloudinary.com/dehghhzey/image/upload/v1685612995/chat_pkdbpm.jpg"
             view="https://github.com/lakshitaa1809/ChatAPP-MERN"
-            live="https://amazing-phoenix-b1c7f7.netlify.app/"
+            live="https://connect-via-chat-mern.netlify.app/"
           />
           <ProjectCards
             title="Food APP -MERN"
