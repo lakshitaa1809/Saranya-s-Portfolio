@@ -70,7 +70,7 @@ const Projects = () => {
             Added to the cart items is checkout by clicking Checkout button."
             src={Foodimg}
             view="https://github.com/lakshitaa1809/Food--MERN-APP"
-            live="https://food-ordering-app-mern.netlify.app/"
+            live="https://mern-food-ordering-app.netlify.app/"
           />
         </div>
       </div>
