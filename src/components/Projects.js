@@ -26,15 +26,14 @@ const Projects = () => {
           />
 
           <ProjectCards
-            title="Book Your Stay-App"
-            des="Using NextJs ,creating a Book your stay App.
-            To build a beautiful Date and Calendar Functionality where you can book a listing.
-            To build a Search Functionality that instantly displays all the listings with the speed of Next.js!.
-            To use Tailwind CSS to build a beautiful carasoul, loading bars and lots of of good UI / UX design implementations!.
-            To finally deploy the final build on Vercel!"
+            title="E-com APP"
+            des="Create a Shopping App.
+            To Build an ECommerce App using React JS and Redux with Using Fetch API to Get Products Data..
+            To build a Log In and Log Out Authentication Flow with Google!..
+            To use Tailwind CSS to build good UI / UX design implementations!.
             src={Bookapp}
             view="https://github.com/lakshitaa1809/Book-your-stay-APP"
-            live="https://book-your-stay-app.vercel.app/"
+            live="https://saran-ecom-react.netlify.app/"
           />
           <ProjectCards
             title="NETFLIX CLONE- STRIPE PAYMENT"
@@ -48,7 +47,7 @@ const Projects = () => {
             "
             src={Netflix}
             view="https://github.com/lakshitaa1809/netflix-clone-stripe-payment"
-            live="https://netflix-clone-watchonline.web.app/"
+            live="https://saran-netflix-clone-react.netlify.app/"
           />
           <ProjectCards
             title="Whatsapp Clone"
@@ -70,7 +69,7 @@ const Projects = () => {
             Added to the cart items is checkout by clicking Checkout button."
             src={Foodimg}
             view="https://github.com/lakshitaa1809/Food--MERN-APP"
-            live="https://mern-food-ordering-app.netlify.app/"
+            live="https://saran-food-ordering-app-mern.netlify.app"
           />
         </div>
       </div>
