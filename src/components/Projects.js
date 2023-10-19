@@ -30,9 +30,9 @@ const Projects = () => {
             des="Create a Shopping App.
             To Build an ECommerce App using React JS and Redux with Using Fetch API to Get Products Data..
             To build a Log In and Log Out Authentication Flow with Google!..
-            To use Tailwind CSS to build good UI / UX design implementations!.
+            To use Tailwind CSS to build good UI / UX design implementations!."
             src={Bookapp}
-            view="https://github.com/lakshitaa1809/Book-your-stay-APP"
+            view="https://github.com/lakshitaa1809/Ecom"
             live="https://saran-ecom-react.netlify.app/"
           />
           <ProjectCards
@@ -43,8 +43,7 @@ const Projects = () => {
              To build a Subscription page where you can see your active monthly subscription and any recurring subscriptions!
              To build a complete Stripe Payments Checkout Flow for the paid monthly Netflix Subscriptions!
              To use the Firebase extension for synchronising Stripe Recurring Payments with Users.
-             To finally deploy the final build using Firebase Hosting!
-            "
+             To finally deploy the final build using Firebase Hosting!"
             src={Netflix}
             view="https://github.com/lakshitaa1809/netflix-clone-stripe-payment"
             live="https://saran-netflix-clone-react.netlify.app/"
