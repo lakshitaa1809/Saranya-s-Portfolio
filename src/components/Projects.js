@@ -1,6 +1,6 @@
 import React from "react";
 import ProjectCards from "./ProjectCards";
-import Bookapp from "../Assests/bookapp.jpg";
+import Bookapp from "../Assests/ecomapp.jpg";
 import Netflix from "../Assests/netflix.jpg";
 import Foodimg from "../Assests/foodimg.jpg";
 const Projects = () => {
